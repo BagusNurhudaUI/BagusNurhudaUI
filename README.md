@@ -201,7 +201,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BagusNurhudaUI&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
