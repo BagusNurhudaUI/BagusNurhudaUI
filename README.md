@@ -23,17 +23,8 @@ I love sharing my knowledge with others, and I do that through content creation 
 - 📬 Ask me anything on my **[issues page](https://github.com/BagusNurhudaUI/BagusNurhudaUI/issues)**
 - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bagusnurhuda/)**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  <div style=" flex-basis: calc(55% - 10px); min-width: 250px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BagusNurhudaUI&show_icons=true&show=prs_merged" style="width: 100%;" />
-  </div>
-
-  <div style="flex-basis: calc(45% - 10px) min-width: 250px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BagusNurhudaUI&langs_count=8&show_icons=true&locale=en&layout=compact&theme=light" style="width: 100%;" />
-  </div>
-
-</div>
+| <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BagusNurhudaUI&show_icons=true&show=prs_merged&theme=buefy&hide_border=true" alt="Bagus's github stats" /></a> | <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagusNurhudaUI&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
   <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BagusNurhudaUI" /> -->
 
