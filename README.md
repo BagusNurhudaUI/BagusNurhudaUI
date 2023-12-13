@@ -25,11 +25,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-  <div style=" min-width: 250px; margin-bottom: 20px;">
+  <div style=" flex-basis: calc(55% - 10px); min-width: 250px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BagusNurhudaUI&show_icons=true&show=prs_merged" style="width: 100%;" />
   </div>
 
-  <div style="f min-width: 250px; margin-bottom: 20px;">
+  <div style="flex-basis: calc(45% - 10px) min-width: 250px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BagusNurhudaUI&langs_count=8&show_icons=true&locale=en&layout=compact&theme=light" style="width: 100%;" />
   </div>
 
