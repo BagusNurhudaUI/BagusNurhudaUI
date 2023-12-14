@@ -9,17 +9,11 @@
   </a>
 </p>
 
-<p>
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.
+✨ I'm a software engineer and cloud architect passionate about making the application and website accessible to everyone and advocating for several company to implement technology on their bussiness. I love to talking and sharing my knowledge with others, and also i deliver it through my [blog](https://new.bagusnurhuda.site/blog).
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/BagusNurhudaUI/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
-
-</p>
-
-- 🔭 I’m currently Intern at [Telkomsel](https://telkomsel.com) as Cloud Engineer HR Analytics Project
-- 🌱 I’m currently learning more on Fullstack and Cloud Development
-- 📫 How to reach me: [Website](https://bagusnurhuda.com)
-- 📖 Learn more about my projects on my **[blog](https://new.bagusnurhuda.site/blog)**
+- 🔭 I’m currently doing freelance project as Fullstack Engineer
+- 📫 How to reach me: [Website](https://new.bagusnurhuda.site)
+- 📖 Learn more about my projects on my **[experiences](https://new.bagusnurhuda.site/experience)**
 - 📬 Ask me anything on my **[issues page](https://github.com/BagusNurhudaUI/BagusNurhudaUI/issues)**
 - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bagusnurhuda/)**
 
@@ -42,15 +36,9 @@ I love sharing my knowledge with others, and I do that through content creation 
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -60,9 +48,9 @@ I love sharing my knowledge with others, and I do that through content creation 
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Kubernetes
+      <br>React JS
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
@@ -72,15 +60,15 @@ I love sharing my knowledge with others, and I do that through content creation 
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>GCP
     </td>
   </tr>
 </table>
